@@ -1,0 +1,1 @@
+../../../../../../../.weechat/python/notify_send.py
